@@ -1,6 +1,8 @@
 # REACT MATERIAL-UI
 
-Little scafold proyect for [React](https://reactjs.org/ 'React') [Material Ui](https://material-ui.com/ 'Material Ui') [Express](https://expressjs.com/ 'Express') [NodeJs](https://nodejs.org/ 'NodeJs') based app, you can see this example working [here](https://react-material-258.herokuapp.com/ 'Material React').
+A little contribution for these thug moments [covid19map](https://covid19map.herokuapp.com/).
+
+You can follow the toturial for building this web app [here](https://medium.com/@thianlopezz/react-coronavirus-map-8c0c90a3a5a8?sk=f1b9c82370dbb3e2cda204b4099657c4).
 
 ## To run
 
