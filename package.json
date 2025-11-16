@@ -12,7 +12,7 @@
 		"google-map-react": "^1.1.7",
 		"react": "^16.13.0",
 		"react-dom": "^16.13.0",
-		"react-scripts": "3.4.0"
+		"react-scripts": "5.0.1"
 	},
 	"scripts": {
 		"start": "npm run build && node server/index.js start",
@@ -37,7 +37,7 @@
 		]
 	},
 	"devDependencies": {
-		"eslint": "^6.8.0",
+		"eslint": "^9.39.1",
 		"eslint-config-airbnb": "^18.1.0",
 		"eslint-config-prettier": "^6.10.0",
 		"eslint-plugin-import": "^2.20.1",
